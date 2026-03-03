@@ -1,15 +1,7 @@
-# Хай
-<div align="center">
-  Я MLevankov
-</div>
+# About me
+I'm developer on FASM, C, C++, C#, Python
+Using Arch Linux, FreeBSD, and Void Linux (musl)
 
-# Кто такой MLevankov???
-<div align="center">
-  <h4>Я обычный кодер на языках C++, C# и Delphi.</h4>
-  <h6>Раньше писал на Python</h6>
-</div>
+Creator of FastWM
 
-# У меня вопросики. Что делать?!
-<div align="center">
-  <h4>Пишите их на почту: support@mlevankov.ru</h4>
-</div>
+My site: http://mlevankov.org (dead)
